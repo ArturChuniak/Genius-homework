@@ -1,3 +1,3 @@
-.[Genius-Test1](https://arturchuniak.github.io/Genius-Test1/)<br>
+.[Genius-Test](https://arturchuniak.github.io/Genius-Test1/)<br>
 .[Genius-homework-1](https://arturchuniak.github.io/Genius-homework-1/)<br>
 .[Genius-homework-2](https://arturchuniak.github.io/Genius-homework-2/)<br>
